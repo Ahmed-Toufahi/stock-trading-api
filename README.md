@@ -62,14 +62,7 @@ This API uses JWT tokens for user authentication. To access certain endpoints (s
 - **Testing:** XUnit (upcoming implementation)
 - **Frontend (upcoming):** To be implemented
 
-## Setup and Installation
 
-### Prerequisites
-
-Before running the project, make sure you have the following installed:
-
-- [.NET Core SDK](https://dotnet.microsoft.com/download)
-- A code editor (Visual Studio, Visual Studio Code, etc.)
 
 ### Running the API
 
